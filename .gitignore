@@ -1,0 +1,20 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Cache de ferramentas
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Sistema operacional / editor
+.DS_Store
+.idea/
+.vscode/
